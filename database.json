@@ -1,0 +1,36 @@
+{
+    "books" : [
+        {
+            "title": "Harry Potter",
+            "author": "J.K. Rowling"
+        },
+        {
+            "title": "Time Keeper",
+            "author": ""
+        },
+        {
+            "title": "Sleep Walker",
+            "author": "Stephen King"
+        },
+        {
+            "title": "Inferno",
+            "author": "Dan Brown"
+        }
+    ],
+    "blogs": [
+        {
+
+            "title": "Angular 13 Tutorial",
+            "description": "Discussing the basics of Angular"
+        },
+        {
+            "title": "Advantage of PWA",
+            "description": "Everything is progressive"
+
+        },
+        {
+            "title": "SSR using Universal",
+            "description": "Server Side Rendering using Angular Universal and Azure"
+        }
+    ]
+}
